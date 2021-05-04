@@ -1,0 +1,32 @@
+C:\Users\User\OneDrive\Рабочий стол\Home work class3\Home work class3\bin\Debug\net5.0\Home work class3.exe
+C:\Users\User\OneDrive\Рабочий стол\Home work class3\Home work class3\bin\Debug\net5.0\Home work class3.deps.json
+C:\Users\User\OneDrive\Рабочий стол\Home work class3\Home work class3\bin\Debug\net5.0\Home work class3.runtimeconfig.json
+C:\Users\User\OneDrive\Рабочий стол\Home work class3\Home work class3\bin\Debug\net5.0\Home work class3.runtimeconfig.dev.json
+C:\Users\User\OneDrive\Рабочий стол\Home work class3\Home work class3\bin\Debug\net5.0\Home work class3.dll
+C:\Users\User\OneDrive\Рабочий стол\Home work class3\Home work class3\bin\Debug\net5.0\ref\Home work class3.dll
+C:\Users\User\OneDrive\Рабочий стол\Home work class3\Home work class3\bin\Debug\net5.0\Home work class3.pdb
+C:\Users\User\OneDrive\Рабочий стол\Home work class3\Home work class3\obj\Debug\net5.0\Home work class3.csprojAssemblyReference.cache
+C:\Users\User\OneDrive\Рабочий стол\Home work class3\Home work class3\obj\Debug\net5.0\Home work class3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\OneDrive\Рабочий стол\Home work class3\Home work class3\obj\Debug\net5.0\Home work class3.AssemblyInfoInputs.cache
+C:\Users\User\OneDrive\Рабочий стол\Home work class3\Home work class3\obj\Debug\net5.0\Home work class3.AssemblyInfo.cs
+C:\Users\User\OneDrive\Рабочий стол\Home work class3\Home work class3\obj\Debug\net5.0\Home work class3.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Рабочий стол\Home work class3\Home work class3\obj\Debug\net5.0\Home work class3.dll
+C:\Users\User\OneDrive\Рабочий стол\Home work class3\Home work class3\obj\Debug\net5.0\ref\Home work class3.dll
+C:\Users\User\OneDrive\Рабочий стол\Home work class3\Home work class3\obj\Debug\net5.0\Home work class3.pdb
+C:\Users\User\OneDrive\Рабочий стол\Home work class3\Home work class3\obj\Debug\net5.0\Home work class3.genruntimeconfig.cache
+C:\Users\User\OneDrive\Рабочий стол\Home work Class\Home work class3\Home work class3\bin\Debug\net5.0\Home work class3.exe
+C:\Users\User\OneDrive\Рабочий стол\Home work Class\Home work class3\Home work class3\bin\Debug\net5.0\Home work class3.deps.json
+C:\Users\User\OneDrive\Рабочий стол\Home work Class\Home work class3\Home work class3\bin\Debug\net5.0\Home work class3.runtimeconfig.json
+C:\Users\User\OneDrive\Рабочий стол\Home work Class\Home work class3\Home work class3\bin\Debug\net5.0\Home work class3.runtimeconfig.dev.json
+C:\Users\User\OneDrive\Рабочий стол\Home work Class\Home work class3\Home work class3\bin\Debug\net5.0\Home work class3.dll
+C:\Users\User\OneDrive\Рабочий стол\Home work Class\Home work class3\Home work class3\bin\Debug\net5.0\ref\Home work class3.dll
+C:\Users\User\OneDrive\Рабочий стол\Home work Class\Home work class3\Home work class3\bin\Debug\net5.0\Home work class3.pdb
+C:\Users\User\OneDrive\Рабочий стол\Home work Class\Home work class3\Home work class3\obj\Debug\net5.0\Home work class3.csprojAssemblyReference.cache
+C:\Users\User\OneDrive\Рабочий стол\Home work Class\Home work class3\Home work class3\obj\Debug\net5.0\Home work class3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\OneDrive\Рабочий стол\Home work Class\Home work class3\Home work class3\obj\Debug\net5.0\Home work class3.AssemblyInfoInputs.cache
+C:\Users\User\OneDrive\Рабочий стол\Home work Class\Home work class3\Home work class3\obj\Debug\net5.0\Home work class3.AssemblyInfo.cs
+C:\Users\User\OneDrive\Рабочий стол\Home work Class\Home work class3\Home work class3\obj\Debug\net5.0\Home work class3.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Рабочий стол\Home work Class\Home work class3\Home work class3\obj\Debug\net5.0\Home work class3.dll
+C:\Users\User\OneDrive\Рабочий стол\Home work Class\Home work class3\Home work class3\obj\Debug\net5.0\ref\Home work class3.dll
+C:\Users\User\OneDrive\Рабочий стол\Home work Class\Home work class3\Home work class3\obj\Debug\net5.0\Home work class3.pdb
+C:\Users\User\OneDrive\Рабочий стол\Home work Class\Home work class3\Home work class3\obj\Debug\net5.0\Home work class3.genruntimeconfig.cache

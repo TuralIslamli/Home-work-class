@@ -1,0 +1,32 @@
+C:\Users\User\OneDrive\Рабочий стол\Klassi test\Klassi test\bin\Debug\net5.0\Klassi test.exe
+C:\Users\User\OneDrive\Рабочий стол\Klassi test\Klassi test\bin\Debug\net5.0\Klassi test.deps.json
+C:\Users\User\OneDrive\Рабочий стол\Klassi test\Klassi test\bin\Debug\net5.0\Klassi test.runtimeconfig.json
+C:\Users\User\OneDrive\Рабочий стол\Klassi test\Klassi test\bin\Debug\net5.0\Klassi test.runtimeconfig.dev.json
+C:\Users\User\OneDrive\Рабочий стол\Klassi test\Klassi test\bin\Debug\net5.0\Klassi test.dll
+C:\Users\User\OneDrive\Рабочий стол\Klassi test\Klassi test\bin\Debug\net5.0\ref\Klassi test.dll
+C:\Users\User\OneDrive\Рабочий стол\Klassi test\Klassi test\bin\Debug\net5.0\Klassi test.pdb
+C:\Users\User\OneDrive\Рабочий стол\Klassi test\Klassi test\obj\Debug\net5.0\Klassi test.csprojAssemblyReference.cache
+C:\Users\User\OneDrive\Рабочий стол\Klassi test\Klassi test\obj\Debug\net5.0\Klassi test.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\OneDrive\Рабочий стол\Klassi test\Klassi test\obj\Debug\net5.0\Klassi test.AssemblyInfoInputs.cache
+C:\Users\User\OneDrive\Рабочий стол\Klassi test\Klassi test\obj\Debug\net5.0\Klassi test.AssemblyInfo.cs
+C:\Users\User\OneDrive\Рабочий стол\Klassi test\Klassi test\obj\Debug\net5.0\Klassi test.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Рабочий стол\Klassi test\Klassi test\obj\Debug\net5.0\Klassi test.dll
+C:\Users\User\OneDrive\Рабочий стол\Klassi test\Klassi test\obj\Debug\net5.0\ref\Klassi test.dll
+C:\Users\User\OneDrive\Рабочий стол\Klassi test\Klassi test\obj\Debug\net5.0\Klassi test.pdb
+C:\Users\User\OneDrive\Рабочий стол\Klassi test\Klassi test\obj\Debug\net5.0\Klassi test.genruntimeconfig.cache
+C:\Users\User\OneDrive\Рабочий стол\Home work Class\Home work Class1\Klassi test\bin\Debug\net5.0\Klassi test.exe
+C:\Users\User\OneDrive\Рабочий стол\Home work Class\Home work Class1\Klassi test\bin\Debug\net5.0\Klassi test.deps.json
+C:\Users\User\OneDrive\Рабочий стол\Home work Class\Home work Class1\Klassi test\bin\Debug\net5.0\Klassi test.runtimeconfig.json
+C:\Users\User\OneDrive\Рабочий стол\Home work Class\Home work Class1\Klassi test\bin\Debug\net5.0\Klassi test.runtimeconfig.dev.json
+C:\Users\User\OneDrive\Рабочий стол\Home work Class\Home work Class1\Klassi test\bin\Debug\net5.0\Klassi test.dll
+C:\Users\User\OneDrive\Рабочий стол\Home work Class\Home work Class1\Klassi test\bin\Debug\net5.0\ref\Klassi test.dll
+C:\Users\User\OneDrive\Рабочий стол\Home work Class\Home work Class1\Klassi test\bin\Debug\net5.0\Klassi test.pdb
+C:\Users\User\OneDrive\Рабочий стол\Home work Class\Home work Class1\Klassi test\obj\Debug\net5.0\Klassi test.csprojAssemblyReference.cache
+C:\Users\User\OneDrive\Рабочий стол\Home work Class\Home work Class1\Klassi test\obj\Debug\net5.0\Klassi test.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\OneDrive\Рабочий стол\Home work Class\Home work Class1\Klassi test\obj\Debug\net5.0\Klassi test.AssemblyInfoInputs.cache
+C:\Users\User\OneDrive\Рабочий стол\Home work Class\Home work Class1\Klassi test\obj\Debug\net5.0\Klassi test.AssemblyInfo.cs
+C:\Users\User\OneDrive\Рабочий стол\Home work Class\Home work Class1\Klassi test\obj\Debug\net5.0\Klassi test.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Рабочий стол\Home work Class\Home work Class1\Klassi test\obj\Debug\net5.0\Klassi test.dll
+C:\Users\User\OneDrive\Рабочий стол\Home work Class\Home work Class1\Klassi test\obj\Debug\net5.0\ref\Klassi test.dll
+C:\Users\User\OneDrive\Рабочий стол\Home work Class\Home work Class1\Klassi test\obj\Debug\net5.0\Klassi test.pdb
+C:\Users\User\OneDrive\Рабочий стол\Home work Class\Home work Class1\Klassi test\obj\Debug\net5.0\Klassi test.genruntimeconfig.cache
